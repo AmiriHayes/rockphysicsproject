@@ -1,5 +1,4 @@
 # This code does the following
-# Creating a simulation rock data with spheres in it.
 
 import numpy as np
 import matplotlib.pyplot as plt
@@ -60,3 +59,4 @@ ax.set_zlim([0, box_size])
 
 # Show the plot
 plt.show()
+
